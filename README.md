@@ -1,2 +1,2 @@
-This is my currency exchange website using API.
+Currency Exchange using API from https://www.exchangerate-api.com
 
